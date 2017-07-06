@@ -136,7 +136,7 @@ class GameScene: SKScene {
                 enemy.run(SKAction.moveTo(x: ball.position.x, duration: 0.1))
                 break
             case .udb:
-                enemy.run(SKAction.moveTo(x: ball.position.x, duration: 0))
+                enemy.run(SKAction.moveTo(x: ball.position.x, duration: 0.0))
                 break
             case .compcomp:
                 enemy.run(SKAction.moveTo(x: ball.position.x, duration: 0.7))
