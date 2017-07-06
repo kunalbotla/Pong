@@ -108,7 +108,7 @@
                                 </connections>
                             </button>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="AdMob Standerd Banner Ad" translatesAutoresizingMaskIntoConstraints="NO" id="Dgg-sh-V3y">
-                                <rect key="frame" x="40" y="432" width="240" height="128"/>
+                                <rect key="frame" x="0.0" y="518" width="320" height="50"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
